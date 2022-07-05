@@ -2,6 +2,14 @@
 
 A smol collective.
 
+## comms
+
+- [website](https://pico.sh)
+- [irc #pico.sh](irc://irc.libera.chat/#pico.sh)
+- [mailing list](https://lists.sr.ht/~erock/pico.sh)
+- [ticket tracker](https://todo.sr.ht/~erock/pico.sh)
+- [email](mailto:hello@pico.sh)
+
 ## philosophy
 
 The modern web has been leveraged by corporations to commercialize their
@@ -23,3 +31,13 @@ require a team to maintain.
 - Building libraries to support a smaller web
 - Keeping projects limited in scope and features
 - Fostering a community of hackers who enjoy minimalism
+<<<<<<< Updated upstream
+=======
+
+## inspiration
+
+- [suckless](https://suckless.org)
+- [charm.sh](https://charm.sh)
+- [tanstack](https://tanstack.com)
+- [sr.ht](https://sr.ht)
+>>>>>>> Stashed changes
