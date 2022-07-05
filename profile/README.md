@@ -31,8 +31,6 @@ require a team to maintain.
 - Building libraries to support a smaller web
 - Keeping projects limited in scope and features
 - Fostering a community of hackers who enjoy minimalism
-<<<<<<< Updated upstream
-=======
 
 ## inspiration
 
@@ -40,4 +38,3 @@ require a team to maintain.
 - [charm.sh](https://charm.sh)
 - [tanstack](https://tanstack.com)
 - [sr.ht](https://sr.ht)
->>>>>>> Stashed changes
