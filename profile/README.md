@@ -23,7 +23,9 @@ building them.
 
 One thing we have noticed is the ever-expanding number of features that get added 
 to a project over time.  Without restraint, projects quickly expand until they 
-require a team to maintain. 
+require a team to maintain.  We want to resist the urge to continuously grow
+our projects.  Relatively small, self-contained projects are what get us
+excited about engineering and it motivates us to hone our craft.
 
 ## goals
 
@@ -38,3 +40,10 @@ require a team to maintain.
 - [charm.sh](https://charm.sh)
 - [tanstack](https://tanstack.com)
 - [sr.ht](https://sr.ht)
+
+## team
+
+Meet the pico.sh team!
+
+- [Eric Bower](https://erock.io)
+- [Antonio Mika](https://antoniomika.me)
