@@ -49,7 +49,6 @@ engineering.
 
 ## inspiration
 
-- [suckless](https://suckless.org)
 - [charm.sh](https://charm.sh)
 - [sr.ht](https://sr.ht)
 - [rawtext.club](https://rawtext.club)
