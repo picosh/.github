@@ -47,13 +47,6 @@ engineering.
 - Foster a community of hackers who enjoy minimalism
 - A single person can fully understand a project
 
-## inspiration
-
-- [charm.sh](https://charm.sh)
-- [sr.ht](https://sr.ht)
-- [rawtext.club](https://rawtext.club)
-- [tanstack](https://tanstack.com)
-
 ## team
 
 Meet the pico.sh team!
