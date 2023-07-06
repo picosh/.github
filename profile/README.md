@@ -2,10 +2,18 @@
 
 A smol collective.
 
+## services
+
+- [prose.sh](https://prose.sh) -- A blog platform for hackers
+- [lists.sh](https://lists.sh) -- A microblog for lists
+- [imgs.sh](https://imgs.sh) -- An image hosting service
+- [pastes.sh](https://pastes.sh) -- A pastebin service
+- [feeds.sh](https://feeds.sh) -- An RSS to email notification service
+
 ## comms
 
 - [website](https://pico.sh)
-- [irc #pico.sh](irc://irc.libera.chat/#pico.sh)
+- [libera.chat #pico.sh](irc://irc.libera.chat/#pico.sh)
 - [issue tracker](https://github.com/picosh/pico/issues)
 - [mailing list](https://lists.sr.ht/~erock/pico.sh)
 - [email](mailto:~erock/pico.sh@lists.sr.ht)
@@ -21,7 +29,7 @@ of the modern web is the browser. The modern browser is very much like an
 operating system, both in terms of complexity and code size. Only massive
 corporations can build and maintain it. Further, the web breeds platforms that
 exploit your
-[reward and learning centers](https://en.wikipedia.org/wiki/Nucleus_accumbens#Function) in
+reward and learning centers in
 order to increase "engagement." We have no issue with the commercialization of
 the web -- that's how useful services exist. However, we are more aligned with
 products and services that promote human communication and collaboration in its
