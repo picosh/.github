@@ -9,6 +9,7 @@ A smol collective.
 - [imgs.sh](https://imgs.sh) -- An image hosting service
 - [pastes.sh](https://pastes.sh) -- A pastebin service
 - [feeds.sh](https://feeds.sh) -- An RSS to email notification service
+- [pgs.sh](https://pgs.sh) -- A zero-dependency static site hosting service for hackers 
 
 ## comms
 
