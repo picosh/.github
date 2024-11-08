@@ -1,9 +1,8 @@
 # pico.sh
 
-hacker labs
+hacker labs.
 
-Providing tools and services to improve communication and collaboration on the
-web.
+Services that empower developers using `ssh`.
 
 ## team
 
