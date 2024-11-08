@@ -2,7 +2,7 @@
 
 hacker labs.
 
-Services that empower developers using `ssh`.
+services that empower developers using `ssh`.
 
 ## team
 
